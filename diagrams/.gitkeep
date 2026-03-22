@@ -1,0 +1,9 @@
+# Diagrams
+
+Place the following files here:
+
+- `neopulse-v1.png` — exported architecture diagram (PNG)
+- `neopulse-v1.eraser` — source file (Eraser.io)
+
+These are binary/design files and are not committed to version control by default.
+Update `.gitignore` if you want to track them.

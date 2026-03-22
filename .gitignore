@@ -1,0 +1,41 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Diagrams (binary — opt-in to track)
+# diagrams/*.png
+# diagrams/*.eraser
+
+# Env / secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Logs
+*.log
+logs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+dist/
+build/
+*.egg-info/
+
+# Node
+node_modules/
+.next/
+out/
+
+# Docker
+*.override.yml
